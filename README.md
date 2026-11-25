@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Padma Lakshmi G! 👋
 
-<!--
-**padmalakshmi910/padmalakshmi910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-Year B.Tech Artificial Intelligence and Data Science Student at Saveetha Engineering College.
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- Interested in Artificial Intelligence and Data Science.
+- Passionate about programming and problem-solving.
+- Exploring new technologies and practical applications.
+- Always eager to learn and improve my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- C Programming
+- Python
+- Data Structures and Algorithms
+- CUDA (Learning)
+- Git and GitHub
+
+## 🌱 Currently Learning
+- Artificial Intelligence
+- Data Science
+- Advanced Programming
+- GPU Computing
+
+## 🎯 Goals
+- Improve my programming skills.
+- Build real-world projects.
+- Strengthen my problem-solving abilities.
+- Collaborate with other developers.
+
+## 🔗 Connect With Me
+- LinkedIn: [Padma Lakshmi G](https://www.linkedin.com/in/padma-lakshmi-g-073b8837b/)
+- GitHub: [padmalakshmi910](https://github.com/padmalakshmi910)
+
+⭐ Learning something new every day!
