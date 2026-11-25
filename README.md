@@ -27,6 +27,16 @@
 - Strengthen my problem-solving abilities.
 - Collaborate with other developers.
 
+## Project
+
+### 🎮 GPU-Based Tic-Tac-Toe Competition
+- Interactive two-player decision-making game.
+- Technologies: HTML, CSS, JavaScript.
+- Features: Automatic moves, winner detection and reset.
+- [View Source Code](https://github.com/padmalakshmi910/gpu-based-tic-tac-toe)
+- [Live Demo](https://gpu-tic-tac-toe.netlify.app/)
+- [Watch Demo](https://www.youtube.com/watch?v=MryegpOMuZc)
+
 ## 🔗 Connect With Me
 - LinkedIn: [Padma Lakshmi G](https://www.linkedin.com/in/padma-lakshmi-g-073b8837b/)
 - GitHub: [padmalakshmi910](https://github.com/padmalakshmi910)
